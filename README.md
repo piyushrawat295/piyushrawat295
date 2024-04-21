@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Piyush and I'm a WEB_DEVELOPER</h2>
+<h1 align="left">Hi 👋! My name is Piyush and I'm a WEB_DEVELOPER</h1>
 
 - 🔭 I’m currently working on **CityScape**
 
