@@ -1,19 +1,5 @@
 <h1 align="left">Hi 👋! My name is Piyush and I'm a WEB_DEVELOPER</h1>
 
-- 🔭 I’m currently working on **CityScape**
-
-- 🌱 I’m currently learning **Nextjs**
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **piyushrawat20072005@gmail.com**
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/piyush-rawat-piyuweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-rawat-piyuweb" height="30" width="40" /></a>
-<a href="https://instagram.com/piyush._.295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyush._.295" height="30" width="40" /></a>
-</p>
-
 <h2 align="center">🛠 Language and tools</h2>
 
 <div align="center">
@@ -71,5 +57,10 @@
   <img src="https://streak-stats.demolab.com?user=piyushrawat295&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<h2 align="left">Connect with me on </h2>
+<p align="left">
+<a href="https://linkedin.com/in/piyush-rawat-piyuweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-rawat-piyuweb" height="30" width="40" /></a>
+<a href="https://instagram.com/piyush._.295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyush._.295" height="30" width="40" /></a>
+</p>
 
 
