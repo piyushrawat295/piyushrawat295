@@ -34,11 +34,12 @@
 
 <p align="center">
 
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushrawat295&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushrawat295&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1)
+![Repos](https://img.shields.io/badge/Public%20Repos-📦-blue)
+![Followers](https://img.shields.io/github/followers/piyushrawat295?style=flat)
+![Stars](https://img.shields.io/github/stars/piyushrawat295?affiliations=OWNER%2CCOLLABORATOR)
 
 </p>
+
 
 
 ---
