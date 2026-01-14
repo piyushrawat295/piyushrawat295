@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Web Developer | MERN • Next.js • UI-Focused Engineering</h3>
 
 <p align="center">
-  Building scalable web applications with modern technologies, clean architecture, and intuitive UI/UX.
+  Building scalable, performant web applications with modern stacks and clean UI/UX.
 </p>
 
 ---
@@ -45,13 +45,17 @@
 
 ---
 
-## 🔥 Contribution Streak
+## 🟡 Contribution Activity
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=piyushrawat295&theme=tokyonight&hide_border=true" 
-    height="220"
-  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" 
+       src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 </p>
 
 ---
