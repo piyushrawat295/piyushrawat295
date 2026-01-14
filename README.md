@@ -6,6 +6,15 @@
 </p>
 
 ---
+<p align="center">
+  <img 
+    src="https://media.tenor.com/images/4857766874673446615/tenor.gif"
+    width="500"
+    alt="Coding animation"
+  />
+</p>
+
+<p align="center"><i>Coding ideas into scalable web solutions 🚀</i></p>
 
 ## 🛠️ Tech Stack & Tools
 
