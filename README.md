@@ -10,9 +10,6 @@
   <img src="assests/piza-ninjas-pizzaninjas.gif" width="500" alt="Coding animation"/>
 </p>
 
-<p align="center"><i>Coding ideas into scalable web applications 🚀</i></p>
-
-
 <p align="center"><i>Coding ideas into scalable web solutions 🚀</i></p>
 
 ## 🛠️ Tech Stack & Tools
