@@ -33,15 +33,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=piyushrawat295&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushrawat295&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
+
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushrawat295&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushrawat295&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1)
+
 </p>
+
 
 ---
 
