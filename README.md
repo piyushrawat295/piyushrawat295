@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Rawat</h1>
-<h3 align="center">Full-Stack Web Developer | MERN • Next.js • UI-Focused Engineering</h3>
+<h2 align="center">Full-Stack Web Developer | MERN • Next.js </h2>
 
 <p align="center">
   Building scalable, performant web applications with modern stacks and clean UI/UX.
